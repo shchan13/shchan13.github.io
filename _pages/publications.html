@@ -1,0 +1,227 @@
+---
+layout: archive
+title: "Selected Publications"
+permalink: /publications/
+author_profile: true
+---
+
+<p>
+You can find all my articles on <a href="https://scholar.google.de/citations?user=yny05hUAAAAJ">my Google Scholar profile</a>.
+</p>
+
+{% include base_path %}
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <a href="#year2023">2023</a>
+            </td>
+            <td>
+                <a href="#year2022">2022</a>
+            </td>
+            <td>
+                <a href="#year2021">2021</a>
+            </td>
+            <td>
+                <a href="#year2020">2020</a>
+            </td>
+            <td>
+                <a href="#year2019">2019</a>
+            </td>
+            <td>
+                <a href="#year2018">2018</a>
+            </td>
+            <td>
+                <a href="#year2016">2016</a>
+            </td>
+            <td>
+                <a href="#thesis">Thesis</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<div id="selected_publications_container">
+</div>
+
+<script>
+    function getEntryURL(entry) {
+        var entryTags = entry["entryTags"];
+        if("url" in entryTags) {
+            return entryTags["url"];
+        } else if("eprint" in entryTags) {
+            return entryTags["eprint"];
+        } else if("doi" in entryTags) {
+            return entryTags["doi"];
+        } else {
+            return "#";
+        }
+    }
+
+    function getVenue(entry) {
+        var entryTags = entry["entryTags"];
+        var venue = "";
+        if("journal" in entryTags) {
+            venue = entryTags["journal"];
+        } else {
+            venue = entryTags["booktitle"];
+        }
+        return venue.replace(/\(/g, "(<strong>").replace(/\)/g, "</strong>)");
+    }
+
+    function getVenueFromNote(entry) {
+        var entryTags = entry["entryTags"];
+        var venue = "";
+        if("note" in entryTags) {
+            venue = entryTags["note"];
+        }
+        return venue.replace(/\(/g, "(<strong>").replace(/\)/g, "</strong>)");
+    }
+
+    function publicationEntry(entry) {
+        var authorName = '{{ site.name | default: site.title }}';
+        var result = "<li><span>";
+        var entryTags = entry["entryTags"];
+        var bibtexId = "bibtex-" + entry["citationKey"];
+        var linkBibtexId = "a-"+bibtexId;
+        var abstractId = "abstract-"+bibtexId;
+        var linkAbstractId = "a-"+abstractId;
+        result += '<a href="'+getEntryURL(entry)+'">' + entryTags["title"] + '</a>.<br/>';
+        var authors = replaceAll(entryTags["author"], " and ", ", ");
+        authors = authors.replace(authorName, "<strong>"+authorName+"</strong>");
+        result += authors + ".<br/>";
+        result += valueInTag(getVenue(entry), "em");
+        if("pages" in entryTags) {
+            result += ", pages " + entryTags["pages"].replace("--", "–");
+        }
+        result += ", "+ entryTags["year"] + ".<br/>";
+        if("note" in entryTags) {
+            result += getVenueFromNote(entry) + ".<br/>";
+        }
+
+        result += '[<a href="javascript:void(0)" id="'+linkAbstractId+'">abstract</a>]';
+        result += ' [<a href="javascript:void(0)" id="'+linkBibtexId+'">bibtex</a>]';
+        if("doi" in entryTags) {
+            result += ' [<a href="'+entryTags["doi"]+'">doi</a>]';
+        }
+        if("eprint" in entryTags) {
+            result += ' [<a href="'+entryTags["eprint"]+'">pdf</a>]';
+        }
+        if("code" in entryTags) {
+            result += ' [<a href="'+entryTags["code"]+'">code</a>]';
+        }
+        result += "<br/>";
+        result += '<div id="'+abstractId+'" style="display:none; border-radius: 15px; background: #f2f2f2; padding: 15px; ">';
+        result += entryTags["abstract"];
+        result += "</div>";
+        result += '<div id="'+bibtexId+'" style="display:none"><pre>@'+entry["entryType"]+"{" + entry["citationKey"] + ",\n";
+        for(let variable in entryTags) {
+            if(variable != "note") {
+                result += "    " + variable + "\t= {" + entryTags[variable] + "},\n";
+            }
+        }
+        result += "}</pre></div>";
+        result += "</span></li>";
+        return result;
+    }
+
+    function phdEntry(entry) {
+        var authorName = '{{ site.name | default: site.title }}';
+        var result = "<li><span>";
+        var entryTags = entry["entryTags"];
+        var bibtexId = "bibtex-" + entry["citationKey"];
+        var linkBibtexId = "a-"+bibtexId;
+        var abstractId = "abstract-"+bibtexId;
+        var linkAbstractId = "a-"+abstractId;
+        result += '<a href="'+getEntryURL(entry)+'">' + entryTags["title"] + '</a>.<br/>';
+        var authors = replaceAll(entryTags["author"], " and ", ", ");
+        authors = authors.replace(authorName, "<strong>"+authorName+"</strong>");
+        result += authors + ".<br/>";
+        result += valueInTag("PhD Thesis (cumulative dissertation), LMU Munich, 2023", "em");
+        result += ".<br/>";
+
+        result += '[<a href="javascript:void(0)" id="'+linkAbstractId+'">abstract</a>]';
+        result += ' [<a href="javascript:void(0)" id="'+linkBibtexId+'">bibtex</a>]';
+        if("doi" in entryTags) {
+            result += ' [<a href="'+entryTags["doi"]+'">doi</a>]';
+        }
+        if("eprint" in entryTags) {
+            result += ' [<a href="'+entryTags["eprint"]+'">pdf</a>]';
+        }
+        if("code" in entryTags) {
+            result += ' [<a href="'+entryTags["code"]+'">code</a>]';
+        }
+        result += "<br/>";
+        result += '<div id="'+abstractId+'" style="display:none; border-radius: 15px; background: #f2f2f2; padding: 15px; ">';
+        result += "Our world represents an enormous multi-agent system (MAS), consisting of a plethora of agents that make decisions under uncertainty to achieve certain goals. The interaction of agents constantly affects our world in various ways, leading to the emergence of interesting phenomena like life forms and civilizations that can last for many years while withstanding various kinds of disturbances. Building artificial MAS that are able to adapt and survive similarly to natural MAS is a major goal in artificial intelligence as a wide range of potential real-world applications like autonomous driving, multi-robot warehouses, and cyber-physical production systems can be straightforwardly modeled as MAS. Multi-agent reinforcement learning (MARL) is a promising approach to build such systems which has achieved remarkable progress in recent years. However, state-of-the-art MARL commonly assumes very idealized conditions to optimize performance in best-case scenarios while neglecting further aspects that are relevant to the real world. In this thesis, we address emergence and resilience in MARL which are important aspects to build artificial MAS that adapt and survive as effectively as natural MAS do. We first focus on emergent cooperation from local interaction of self-interested agents and introduce a peer incentivization approach based on mutual acknowledgments. We then propose to exploit emergent phenomena to further improve coordination in large cooperative MAS via decentralized planning or hierarchical value function factorization. To maintain multi-agent coordination in the presence of partial changes similar to classic distributed systems, we present adversarial methods to improve and evaluate resilience in MARL. Finally, we briefly cover a selection of further topics that are relevant to advance MARL towards real-world applicability.";
+        result += "</div>";
+        result += '<div id="'+bibtexId+'" style="display:none"><pre>@'+entry["entryType"]+"{" + entry["citationKey"] + ",\n";
+        for(let variable in entryTags) {
+            if(variable != "note" && variable != "url" && variable != "doi" && variable != "eprint") {
+                result += "    " + variable + "\t= {" + entryTags[variable] + "},\n";
+            }
+        }
+        result += "}</pre></div>";
+        result += "</span></li>";
+        return result;
+    }
+
+    function loadPublications(publicationData) {
+        var result = "";
+        var currentYear = null;
+        publicationData.sort(function(a,b) {return b["entryTags"]["year"] - a["entryTags"]["year"]});
+        var phdThesis = null;
+        for (var i = 0; i < publicationData.length; i++) {
+            var entry = publicationData[i];
+            var year = entry["entryTags"]["year"];
+            if(entry["entryTags"]["school"]) {
+                phdThesis = entry;
+            } else {
+                if(currentYear != year) {
+                    if(currentYear != null) {
+                        result += "</ul>";
+                    }
+                    currentYear = year;
+                    result += '<h2><a name="year'+year+'"></a>' + year + '</h2>';
+                    result += "<ul>";
+                }
+                result += publicationEntry(entry);
+            }
+        }
+        result += "</ul>";
+        result += '<h2><a name="thesis"></a>PhD Thesis</h2>';
+        result += "<ul>";
+        result += phdEntry(phdThesis);
+        result += "</ul>";
+        return result;
+    }
+
+    var client = new XMLHttpRequest();
+    client.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+            var mainContainer = document.getElementById("selected_publications_container");
+            var publicationData = bibtexParse.toJSON(this.responseText);
+            mainContainer.innerHTML = loadPublications(publicationData);
+            for (var i = 0; i < publicationData.length; i++) {
+                var entry = publicationData[i];
+                var bibtexId = "bibtex-" + entry["citationKey"];
+                var linkBibtexId = "a-"+bibtexId;
+                var abstractId = "abstract-"+bibtexId;
+                var linkAbstractId = "a-"+abstractId;
+                
+                var bibtexLink = document.getElementById(linkBibtexId);
+                bibtexLink.addEventListener("click", function(event){
+                    toggleBibtex(event.target, event.target.id.replace("a-",""));
+                });
+
+                var abstractLink = document.getElementById(linkAbstractId);
+                abstractLink.addEventListener("click", function(event){
+                    toggleAbstract(event.target, event.target.id.replace("a-",""));
+                });
+            }
+        }
+    };
+    client.open('GET', '{{ base_path }}/assets/publications.bib');
+    client.send();
+</script>
