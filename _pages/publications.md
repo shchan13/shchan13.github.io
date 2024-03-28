@@ -14,9 +14,9 @@ You can also find my articles on
 
 
 ## <a name="year2024"></a> 2024 
-* Anytime Multi-Agent Path Finding using Operation Parallelism in Large Neighborhood Search (extended abstract).
-    **Shao-Hung Chan**, Zhe Chen, Dian-Lun Lin, Yue Zhang, Daniel Harabor, Sven Koenig, Tsung-Wei Huang and Thomy Phan
-    <i>International Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, (in print), 2024.
+* Anytime Multi-Agent Path Finding using Operation Parallelism in Large Neighborhood Search (extended abstract).  
+    **Shao-Hung Chan**, Zhe Chen, Dian-Lun Lin, Yue Zhang, Daniel Harabor, Sven Koenig, Tsung-Wei Huang and Thomy Phan  
+    <i>International Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, (in print), 2024.  
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanAAMAS24');">bibtex</a>]
     <div id="bibtex-ChanAAMAS24" style="display:none">
     <pre>@inproceedings{ChanAAMAS24,
@@ -29,9 +29,9 @@ You can also find my articles on
 
 
 ## <a name="year2023"></a> 2023  
-* [Greedy Priority-Based Search for Suboptimali Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS23).
-    **Shao-Hung Chan**, Roni Stern, Ariel Felner and Sven Koenig
-    <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 11-19, 2023.
+* [Greedy Priority-Based Search for Suboptimali Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS23).  
+    **Shao-Hung Chan**, Roni Stern, Ariel Felner and Sven Koenig.  
+    <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 11-19, 2023.  
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangNeurIPS23');">bibtex</a>]
     [[code](https://github.com/shchan13/GPBS)]
     [[pdf](https://shchan13.github.io/files/ChanSoCS23.pdf)]
@@ -46,9 +46,9 @@ You can also find my articles on
     }</pre>
     </div>
 
-* [Multi-Robot Geometric Task-and-Motion Planning for Collaborative Manipulation Tasks](https://shchan13.github.io/publications/ZhangAR23).          
-    Hejia Zhang, **Shao-Hung Chan**, Jie Zhong,  Jiaoyang Li, Peter Kolapo, Sven Koenig, Zach Agioutantis, Steven Schafrik and Stefanos Nikolaidis.            
-    <i>Autonomous Robots</i>, volume 47, pages 1537-1558, 2023.               
+* [Multi-Robot Geometric Task-and-Motion Planning for Collaborative Manipulation Tasks](https://shchan13.github.io/publications/ZhangAR23).  
+    Hejia Zhang, **Shao-Hung Chan**, Jie Zhong,  Jiaoyang Li, Peter Kolapo, Sven Koenig, Zach Agioutantis, Steven Schafrik and Stefanos Nikolaidis.  
+    <i>Autonomous Robots</i>, volume 47, pages 1537-1558, 2023.  
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangAR23');">bibtex</a>]
     [[publisher](https://doi.org/10.1007/s10514-023-10148-y)]
     <div id="bibtex-ZhangAR23" style="display:none">
@@ -65,9 +65,9 @@ You can also find my articles on
 
 
 ## <a name="year2022"></a> 2022
-* [Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanAAAI22).
-    **Shao-Hung Chan**, Jiaoyang Li, Graeme Gange, Daniel Harabor, Peter J. Stuckey and Sven Koenig.
-    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 9313-9322, 2022.
+* [Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanAAAI22).  
+    **Shao-Hung Chan**, Jiaoyang Li, Graeme Gange, Daniel Harabor, Peter J. Stuckey and Sven Koenig.  
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 9313-9322, 2022.  
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanAAAI22');">bibtex</a>]
     [[code](https://github.com/shchan13/FEECBS)]
     [[pdf](https://shchan13.github.io/files/ChanAAAI22.pdf)]
@@ -82,9 +82,9 @@ You can also find my articles on
     }</pre>
     </div>
 
-* [A MIP-Based Approach for Multi-Robot Geometric Task-and-Motion Planning](https://shchan13.github.io/publications/ZhangCASE22).        
-    Hejia Zhang, **Shao-Hung Chan**, Jie Zhong, Jiaoyang Li, Sven Koenig and Stefanos Nikolaidis.       
-    <i>IEEE International Conference on Automation Science and Engineering (**CASE**)</i>, pages 2102-2109, 2022.   
+* [A MIP-Based Approach for Multi-Robot Geometric Task-and-Motion Planning](https://shchan13.github.io/publications/ZhangCASE22).  
+    Hejia Zhang, **Shao-Hung Chan**, Jie Zhong, Jiaoyang Li, Sven Koenig and Stefanos Nikolaidis.  
+    <i>IEEE International Conference on Automation Science and Engineering (**CASE**)</i>, pages 2102-2109, 2022.  
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangCASE22');">bibtex</a>]
     [[pdf](https://shchan13.github.io/files/ZhangCASE22.pdf)] 
     [[publisher](https://ieeexplore.ieee.org/document/9926661)]
@@ -100,10 +100,10 @@ You can also find my articles on
 
 
 ## <a name="year2021"></a> 2021  
-* [Scalable Rail Planning and Replanning: Winning the 2020 Flatland Challenge](https://shchan13.github.io/publications/LiICAPS21) (**Winner of the NeurIPS'20 Flatland Challenge**).
-    Jiaoyang Li, Zhe Chen, Yi Zheng, **Shao-Hung Chan**, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.      
-    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 477-485, 2021.
-    A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18576) appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 179-181, 2021.
+* [Scalable Rail Planning and Replanning: Winning the 2020 Flatland Challenge](https://shchan13.github.io/publications/LiICAPS21) (**Winner of the NeurIPS'20 Flatland Challenge**).  
+    Jiaoyang Li, Zhe Chen, Yi Zheng, **Shao-Hung Chan**, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.  
+    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 477-485, 2021.  
+    A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18576) appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 179-181, 2021.  
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
     [[code](https://github.com/Jiaoyang-Li/Flatland)]
     [[demo](https://youtu.be/Pw4GBL1UhPA)]
@@ -121,10 +121,10 @@ You can also find my articles on
     }</pre>
     </div>  
 
-* [A Hierarchical Approach to Multi-Agent Path Finding](https://shchan13.github.io/publications/ZhangHPLAN21).
-    Han Zhang, Mingze Yao, Ziang Liu, Jiaoyang Li, Lucas Terr, **Shao-Hung Chan**, T. K. Satish Kumar and Sven Koenig.
-    <i>ICAPS Workshop on Hierarchical Planning (**HPLAN**)</i>, 2021.
-    A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18586 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 209-211, 2021.
+* [A Hierarchical Approach to Multi-Agent Path Finding](https://shchan13.github.io/publications/ZhangHPLAN21).  
+    Han Zhang, Mingze Yao, Ziang Liu, Jiaoyang Li, Lucas Terr, **Shao-Hung Chan**, T. K. Satish Kumar and Sven Koenig.  
+    <i>ICAPS Workshop on Hierarchical Planning (**HPLAN**)</i>, 2021.  
+    A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18586 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 209-211, 2021.  
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangHPLAN21');">bibtex</a>]
     [[pdf](https://shchan13.github.io/files/ZhangHPLAN21.pdf)]
     <div id="bibtex-ZhangHPLAN21" style="display:none">
@@ -136,9 +136,9 @@ You can also find my articles on
     }</pre>
     </div>
 
-* [Flatland Competition 2020: MAPF and MARL for Efficient Train Coordination on a Grid World](https://shchan13.github.io/publications/Laurent21).          
-    Florian Laurent, Manuel Schneider, Christian Scheller, Jeremy Watson, Jiaoyang Li, Zhe Chen, Yi Zheng, **Shao-Hung Chan**, Konstantin Makhnev, Oleg Svidchenko, Vladimir Egorov, Dmitry Ivanov, Aleksei Shpilman, Evgenija Spirovska, Oliver Tanevski, Aleksandar Nikov, Ramon Grunder, David Galevski, Jakov Mitrovski, Guillaume Sartoretti, Zhiyao Luo, Mehul Damani, Nilabha Bhattacharya, Shivam Agarwal, Adrian Egli, Erik Nygren and Sharada Mohanty.          
-    <i>NeurIPS 2020 Competition and Demonstration Track</i>, PMLR, volume 133, pages 275-301, 2021.                
+* [Flatland Competition 2020: MAPF and MARL for Efficient Train Coordination on a Grid World](https://shchan13.github.io/publications/Laurent21).  
+    Florian Laurent, Manuel Schneider, Christian Scheller, Jeremy Watson, Jiaoyang Li, Zhe Chen, Yi Zheng, **Shao-Hung Chan**, Konstantin Makhnev, Oleg Svidchenko, Vladimir Egorov, Dmitry Ivanov, Aleksei Shpilman, Evgenija Spirovska, Oliver Tanevski, Aleksandar Nikov, Ramon Grunder, David Galevski, Jakov Mitrovski, Guillaume Sartoretti, Zhiyao Luo, Mehul Damani, Nilabha Bhattacharya, Shivam Agarwal, Adrian Egli, Erik Nygren and Sharada Mohanty.  
+    <i>NeurIPS 2020 Competition and Demonstration Track</i>, PMLR, volume 133, pages 275-301, 2021.  
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Laurent21');">bibtex</a>]
     [[pdf](https://shchan13.github.io/files/Laurent21)]
     [[publisher](http://proceedings.mlr.press/v133/laurent21a.html)]
@@ -155,9 +155,9 @@ You can also find my articles on
     </div> 
 
 ## <a name="year2020"></a> 2020
-* [Nested ECBS for Bounded-Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanWoMAPF20).    
-    **Shao-Hung Chan**, Jiaoyang Li, Daniel Harabor, Peter J. Stuckey, Graeme Gange, Liron Cohen and Sven Koenig.          
-    <i>IJCAI Workshop on Multi-Agent Path Finding (**WoMAPF**)</i>, 2020.
+* [Nested ECBS for Bounded-Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanWoMAPF20).  
+    **Shao-Hung Chan**, Jiaoyang Li, Daniel Harabor, Peter J. Stuckey, Graeme Gange, Liron Cohen and Sven Koenig.     
+    <i>IJCAI Workshop on Multi-Agent Path Finding (**WoMAPF**)</i>, 2020.  
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanWoMAPF20');">bibtex</a>]
     [[pdf](https://shchan13.github.io/files/ChanWoMAPF20.pdf)]
     <div id="bibtex-ChanWoMAPF20" style="display:none">
