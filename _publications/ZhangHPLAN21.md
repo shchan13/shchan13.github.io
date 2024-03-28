@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
                   
-Han Zhang, Mingze Yao, Ziang Liu, Jiaoyang Li, Lucas Terr, **Shao-Hung Chan**, T. K. Satish Kumar and Sven Koenig.
-<i>ICAPS Workshop on Hierarchical Planning (**HPLAN**)</i>, 2021.
-A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18586 "Download pdf") appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 209-211, 2021.
+Han Zhang, Mingze Yao, Ziang Liu, Jiaoyang Li, Lucas Terr, **Shao-Hung Chan**, T. K. Satish Kumar and Sven Koenig.  
+<i>ICAPS Workshop on Hierarchical Planning (**HPLAN**)</i>, 2021.  
+A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18586 "Download pdf") appeared at the <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 209-211, 2021.  
 [[pdf](https://shchan13.github.io/files/ZhangHPLAN21.pdf)]
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangHPLAN21');">bibtex</a>]
 <div id="bibtex-ZhangHPLAN21" style="display:none">

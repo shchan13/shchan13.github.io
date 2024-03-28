@@ -7,17 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-**Shao-Hung Chan**, Roni Stern, Ariel Felner and Sven Koenig
-<i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 11-19, 2023.
+**Shao-Hung Chan**, Roni Stern, Ariel Felner and Sven Koenig.  
+<i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 11-19, 2023.  
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanSoCS23');">bibtex</a>]
 [[code](https://github.com/shchan13/GPBS)]
-[[pdf](https://shchan13.github.io/files/2023-socs.pdf)]
+[[pdf](https://shchan13.github.io/files/ChanSoCS23.pdf)]
 [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/27278)]
 <div id="bibtex-ChanSoCS23" style="display:none">
 <pre>@inproceedings{ChanSoCS23,
   author    = {Shao-Hung Chan and Roni Stern and Ariel Felner and Sven Koenig},
   title     = {Greedy Priority-Based Search for Suboptimal Multi-Agent Path Finding},
-  booktitle = {Proceedings of the Symposium on Combinatorial Search (SoCS)},
+  booktitle = {Proceedings of the International Symposium on Combinatorial Search (SoCS)},
   pages     = {11--19},
   year      = {2023}
 }

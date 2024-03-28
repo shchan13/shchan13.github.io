@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
       
-Hejia Zhang, **Shao-Hung Chan**, Jie Zhong,  Jiaoyang Li, Peter Kolapo, Sven Koenig, Zach Agioutantis, Steven Schafrik and Stefanos Nikolaidis.            
-<i>Autonomous Robots</i>, volume 47, pages 1537-1558, 2023.               
+Hejia Zhang, **Shao-Hung Chan**, Jie Zhong,  Jiaoyang Li, Peter Kolapo, Sven Koenig, Zach Agioutantis, Steven Schafrik and Stefanos Nikolaidis.  
+<i>Autonomous Robots</i>, volume 47, pages 1537-1558, 2023.  
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangAR23');">bibtex</a>]
 [[publisher](https://doi.org/10.1007/s10514-023-10148-y)]
 <div id="bibtex-ZhangAR23" style="display:none">

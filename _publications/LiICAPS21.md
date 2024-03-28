@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-(**Winner of the NeurIPS'20 Flatland Challenge**).         
-Jiaoyang Li, Zhe Chen, Yi Zheng, **Shao-Hung Chan**, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.      
-<i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 477-485, 2021.      
-A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18576) appeared at <i>Symposium on Combinatorial Search (**SoCS**)</i>, pages 179-181, 2021. <br>
+(**Winner of the NeurIPS'20 Flatland Challenge**).  
+Jiaoyang Li, Zhe Chen, Yi Zheng, **Shao-Hung Chan**, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.  
+<i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 477-485, 2021.  
+A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18576) appeared at the <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 179-181, 2021. <br>
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
 [[code](https://github.com/Jiaoyang-Li/Flatland)] 
 [[demo](https://youtu.be/Pw4GBL1UhPA)] 

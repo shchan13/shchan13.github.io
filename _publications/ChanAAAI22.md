@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
       
-**Shao-Hung Chan**, Jiaoyang Li, Graeme Gange, Daniel Harabor, Peter J. Stuckey and Sven Koenig.
-<i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 9313-9322, 2022.
+**Shao-Hung Chan**, Jiaoyang Li, Graeme Gange, Daniel Harabor, Peter J. Stuckey and Sven Koenig.  
+<i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 9313-9322, 2022.  
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanAAAI22');">bibtex</a>]
 [[code](https://github.com/shchan13/FEECBS)]
 [[pdf](https://shchan13.github.io/files/ChanAAAI22.pdf)]

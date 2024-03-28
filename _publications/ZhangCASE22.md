@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Hejia Zhang, **Shao-Hung Chan**, Jie Zhong, Jiaoyang Li, Sven Koenig and Stefanos Nikolaidis.       
-<i>IEEE International Conference on Automation Science and Engineering (**CASE**)</i>, pages 2102-2109, 2022.   
+Hejia Zhang, **Shao-Hung Chan**, Jie Zhong, Jiaoyang Li, Sven Koenig and Stefanos Nikolaidis.  
+<i>IEEE International Conference on Automation Science and Engineering (**CASE**)</i>, pages 2102-2109, 2022.  
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangCASE22');">bibtex</a>]
 [[pdf](https://jiaoyang-li.github.io/files/2022-CASE.pdf)]
 [[publisher](https://ieeexplore.ieee.org/document/9926661)]
