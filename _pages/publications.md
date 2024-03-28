@@ -50,6 +50,7 @@ You can also find my articles on
   Hejia Zhang, **Shao-Hung Chan**, Jie Zhong,  Jiaoyang Li, Peter Kolapo, Sven Koenig, Zach Agioutantis, Steven Schafrik and Stefanos Nikolaidis.  
   <i>Autonomous Robots</i>, volume 47, pages 1537-1558, 2023.  
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangAR23');">bibtex</a>]
+  [[pdf](https://shchan13.github.io/files/ZhangAR23.pdf)]
   [[publisher](https://doi.org/10.1007/s10514-023-10148-y)]
   <div id="bibtex-ZhangAR23" style="display:none">
   <pre>@article{ZhangAR23,
@@ -232,7 +233,24 @@ You can also find my articles on
   <pre>@inproceedings{ChanWoMAPF20,
     author    = {Shao-Hung Chan and Jiaoyang Li and Daniel Harabor and Peter J. Stuckey and Graeme Gange and Liron Cohen and Sven Koenig},
     title     = {Nested ECBS for Bounded-Suboptimal Multi-Agent Path Finding},
-    booktitle = {IJCAI Workshop on Multi-Agent Path Finding},
+    booktitle = {IJCAI Workshop on Multi-Agent Path Finding (WoMAPF)},
     year      = {2020}
+  }</pre>
+  </div>
+
+
+## <a name="year2019"></a> 2019
+* [Multi-Layer Environmental Affordance Map for Robust Indoor Localization, Event Detection and Social Friendly Navigation](https://shchan13.github.io/publications/WuIROS19).  
+  Ping-Tsang Wu, Chee-An Yu, **Shao-Hung Chan**, Ming-Li Chiang and Li-Chen Fu.  
+  <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)</i>, pages 2945-2950, 2019.  
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-WuIROS19');">bibtex</a>]
+  [[pdf](https://shchan13.github.io/files/WuIROS19.pdf)]
+  <div id="bibtex-WuIROS19" style="display:none">
+  <pre>@inproceedings{WuIROS19,
+    author    = {Ping-Tsang Wu and Chee-An Yu and Shao-Hung Chan and Ming-Li Chiang and Li-Chen Fu},
+    title     = {Multi-Layer Environmental Affordance Map for Robust Indoor Localization, Event Detection and Social Friendly Navigation},
+    booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+    pages     = {2945--2950},
+    year      = {2019}
   }</pre>
   </div>
