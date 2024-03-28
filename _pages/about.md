@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Shao-Hung Chan"
+layout: archive
 author_profile: true
 redirect_from: 
   - /about/
