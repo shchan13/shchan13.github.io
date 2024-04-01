@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Distributed Deep Reinforcement Learning based Indoor Visual Navigation"
 permalink: /publications/HsuIROS18/
 author_profile: true
 ---
