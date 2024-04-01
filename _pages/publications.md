@@ -169,7 +169,8 @@ You can also find my articles on
 
 
 ## <a name="year2021"></a> 2021  
-* [Scalable Rail Planning and Replanning: Winning the 2020 Flatland Challenge](https://shchan13.github.io/publications/LiICAPS21) (**Winner of the NeurIPS'20 Flatland Challenge**).  
+* [Scalable Rail Planning and Replanning: Winning the 2020 Flatland Challenge](https://shchan13.github.io/publications/LiICAPS21)
+  **Winner of the NeurIPS'20 Flatland Challenge**.  
   Jiaoyang Li, Zhe Chen, Yi Zheng, **Shao-Hung Chan**, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.  
   <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 477-485, 2021.  
   A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18576) appeared at the <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 179-181, 2021.  
@@ -275,8 +276,8 @@ You can also find my articles on
 
 
 ## <a name="year2018"></a> 2018
-* [Robust 2D Indoor Localization through Laser SLAM and Visual SLAM Fusion](https://shchan13.github.io/publications/ChanSMC18). 
-  **Best Student Paper Award Finalist of IEEE SMC Society. ** 
+* [Robust 2D Indoor Localization through Laser SLAM and Visual SLAM Fusion](https://shchan13.github.io/publications/ChanSMC18).  
+  **Best Student Paper Award Finalist of IEEE SMC Society.**  
   **Shao-Hung Chan**, Ping-Tsang Wu and Li-Chen Fu.  
   <i>IEEE International Conference on System, Man, and Cybernetics (**SMC**)</i>, pages 1263-1268, 2018.  
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanSMC18');">bibtex</a>]
