@@ -309,3 +309,10 @@ You can also find my articles on
     year      = {2018}
   }</pre>
   </div>
+
+
+## <a name="msci"></a> Master Thesis  
+* [Optimal Navigation System for a Mobile Robot to Execute Dynamical Multiple Social Tasks](https://shchan13.github.io/publications/ChanMSci19).  
+  **Best Master Thesis of NTUEE in 2019.**  
+  **Shao-Hung Chan**.  
+  [[pdf](https://shchan13.github.io/files/ChanMSci19.pdf)]
