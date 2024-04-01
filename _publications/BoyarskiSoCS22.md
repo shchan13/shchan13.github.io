@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+**Best Student Paper Award of SOCS 2023**  
 Eli Boyarski, **Shao-Hung Chan**, Dor Atzmon, Ariel Felner and Sven Koenig.  
 <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 11-19, 2022.  
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-BoyarskiSoCS22');">bibtex</a>]
