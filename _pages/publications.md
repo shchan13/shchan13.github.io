@@ -223,6 +223,7 @@ You can also find my articles on
   }</pre>
   </div> 
 
+
 ## <a name="year2020"></a> 2020
 * [Nested ECBS for Bounded-Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanWoMAPF20).  
   **Shao-Hung Chan**, Jiaoyang Li, Daniel Harabor, Peter J. Stuckey, Graeme Gange, Liron Cohen and Sven Koenig.     
@@ -240,6 +241,22 @@ You can also find my articles on
 
 
 ## <a name="year2019"></a> 2019
+* [Real-time Obstacle Avoidance using Supervised Recurrent Neural Network with Automatic Data Collection and Labeling](https://shchan13.github.io/publications/ChanSMC19). 
+  **Shao-Hung Chan**, Xiaoyue Xu, Ping-Tsang Wu, Ming-Li Chiang and Li-Chen Fu.  
+  <i>IEEE International Conference on System, Man, and Cybernetics (**SMC**)</i>, pages 472-477, 2019.  
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanSMC19');">bibtex</a>]
+  [[pdf](https://shchan13.github.io/files/ChanSMC19.pdf)]
+  [[publisher](https://ieeexplore.ieee.org/abstract/document/8914281/)]
+  <div id="bibtex-ChanSMC19" style="display:none">
+  <pre>@inproceedings{ChanSMC19,
+    author    = {Shao-Hung Chan and Xiaoyue Xu and Ping-Tsang Wu and Ming-Li Chiang and Li-Chen Fu},
+    title     = {Real-time Obstacle Avoidance using Supervised Recurrent Neural Network with Automatic Data Collection and Labeling},
+    booktitle = {IEEE International Conference on System, Man, and Cybernetics (SMC)},
+    pages     = {472--477},
+    year      = {2019}
+  }</pre>
+  </div>
+
 * [Multi-Layer Environmental Affordance Map for Robust Indoor Localization, Event Detection and Social Friendly Navigation](https://shchan13.github.io/publications/WuIROS19).  
   Ping-Tsang Wu, Chee-An Yu, **Shao-Hung Chan**, Ming-Li Chiang and Li-Chen Fu.  
   <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)</i>, pages 2945-2950, 2019.  
@@ -253,5 +270,40 @@ You can also find my articles on
     booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
     pages     = {2945--2950},
     year      = {2019}
+  }</pre>
+  </div>
+
+
+## <a name="year2018"></a> 2018
+* [Robust 2D Indoor Localization through Laser SLAM and Visual SLAM Fusion](https://shchan13.github.io/publications/ChanSMC18). 
+  **Best Student Paper Award Finalist of IEEE SMC Society. ** 
+  **Shao-Hung Chan**, Ping-Tsang Wu and Li-Chen Fu.  
+  <i>IEEE International Conference on System, Man, and Cybernetics (**SMC**)</i>, pages 1263-1268, 2018.  
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanSMC18');">bibtex</a>]
+  [[pdf](https://shchan13.github.io/files/ChanSMC18.pdf)]
+  [[publisher](https://ieeexplore.ieee.org/abstract/document/8616217/)]
+  <div id="bibtex-ChanSMC18" style="display:none">
+  <pre>@inproceedings{ChanSMC18,
+    author    = {Shao-Hung Chan and Ping-Tsang Wu and Li-Chen Fu},
+    title     = {Robust 2D Indoor Localization through Laser SLAM and Visual SLAM Fusion},
+    booktitle = {IEEE International Conference on System, Man, and Cybernetics (SMC)},
+    pages     = {1263--1268},
+    year      = {2018}
+  }</pre>
+  </div>
+
+* [Distributed Deep Reinforcement Learning based Indoor Visual Navigation](https://shchan13.github.io/publications/HsuIROS18).  
+  Shih-Hsi Hsu, **Shao-Hung Chan**, Ping-Tsang Wu, Kun Xiao and Li-Chen Fu.  
+  <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)</i>, pages 2532-2537, 2018.  
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-HsuIROS18');">bibtex</a>]
+  [[pdf](https://shchan13.github.io/files/HsuIROS18.pdf)]
+  [[publisher]()]
+  <div id="bibtex-HsuIROS18" style="display:none">
+  <pre>@inproceedings{HsuIROS18,
+    author    = {Shih-Hsi Hsu and Shao-Hung Chan and Ping-Tsang Wu and Kun Xiao and Li-Chen Fu},
+    title     = {Distributed Deep Reinforcement Learning based Indoor Visual Navigation},
+    booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+    pages     = {2532--2537},
+    year      = {2018}
   }</pre>
   </div>
