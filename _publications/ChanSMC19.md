@@ -23,3 +23,6 @@ author_profile: true
   </div>
 
 ## Abstract
+In this paper, we propose an approach for real-time obstacle avoidance based on a supervised Recurrent Neural Network (RNN). As compared with conventional rule-based methods, fewer hyper parameters are needed to be tuned in the proposed system. On the other hand, as a data-driven system, our approach generates training data autonomously without manual labeling process. One of the main features of the proposed system is data generation, which can provide thousands of training data for supervised learning using simply 2D occupancy grid maps as input. To efficiently generate the path data, we utilize A* algorithm as the initial guide for the autonomous training process of the RNN model. After that, the trained model will perform local path planning to avoid
+obstacles, which is tested in practical environments. With the proposed approach, we can effectively reduce the training time
+while maintaining satisfactory performance. Simulated experiments show that the proposed system not only exhibits the features of A* algorithm in global aspect for path planning, but also performs obstacle avoidance in local aspect. As a by-product, the simulation results also show that the autonomously trained model can be successfully applied to many different scenarios.
