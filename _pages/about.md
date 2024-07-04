@@ -15,6 +15,7 @@ My research interests are based on multi-agent system. I am interested in develo
 
 
 ## News
+* [2024/07] I will start an internship from July 15, 2024 to January 10, 2025, working for [Robert Bosch GmbH](https://www.bosch.com/research/) in Renningen, Germany.
 * [CFP] We are excited and delighted to send out the call of submissions for the [2024 League of Robot Runners Virtual Expo](https://www.leagueofrobotrunners.org/news). The submission deadline is **April 14, 2024**.  
 * [2024/01] Our paper Anytime Multi-Agent Path Finding using Operation Parallelism in Large Neighborhood Search was accepted as an extended abstract in [AAMAS 2024](https://www.aamas2024-conference.auckland.ac.nz).  
 * [2023/12] We finished running [The League of Robot Runners](https://www.leagueofrobotrunners.org/). Thanks for all the participation!  
