@@ -17,11 +17,11 @@ You can also find my articles on
 * [Counterfactual Online Learning for Open-Loop Monte-Carlo Planning](https://shchan13.github.io/publications/Phan2AAAI25).  
   Thomy Phan, **Shao-Hung Chan**, and Sven Koenig.  
   <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 26651--26658, 2025.  
-  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanAAMAS24');">bibtex</a>]
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Phan2AAAI25');">bibtex</a>]
   [[code](https://github.com/thomyphan/counterfactual-planning)]
   [[pdf](https://shchan13.github.io/files/Phan2AAAI25.pdf)]
   [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/21162)]
-  <div id="bibtex-ChanAAMAS24" style="display:none">
+  <div id="bibtex-Phan2AAAI25" style="display:none">
   <pre>@inproceedings{Phan2AAAI25,
     author    = {Thomy Phan and Shao-Hung Chan and Sven Koenig},
     title     = {Counterfactual Online Learning for Open-Loop Monte-Carlo Planning},
@@ -34,11 +34,11 @@ You can also find my articles on
 * [Anytime Multi-Agent Path Finding with an Adaptive Delay-Based Heuristic](https://shchan13.github.io/publications/Phan1AAAI25).  
   Thomy Phan, Benran Zhang, **Shao-Hung Chan**, and Sven Koenig.  
   <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 23286--23294, 2025.  
-  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanAAMAS24');">bibtex</a>]
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Phan1AAAI25');">bibtex</a>]
   [[code](https://github.com/JimyZ13/ADDRESS)]
   [[pdf](https://shchan13.github.io/files/Phan1AAAI25.pdf)]
   [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/21162)]
-  <div id="bibtex-ChanAAMAS24" style="display:none">
+  <div id="bibtex-Phan1AAAI25" style="display:none">
   <pre>@inproceedings{Phan1AAAI25,
     author    = {Thomy Phan and Benran Zhang and Shao-Hung Chan and Sven Koenig},
     title     = {Anytime Multi-Agent Path Finding with an Adaptive Delay-Based Heuristic},
@@ -50,7 +50,7 @@ You can also find my articles on
 
 ## <a name="year2024"></a> 2024
 
-* [Anytime Multi-Agent Path Finding using Operation Parallelism in Large Neighborhood Search (Extended Abstract)](https://shchan13.github.io/publications/ChanAAMAS24).  
+* [Anytime Multi-Agent Path Finding using Operation Parallelism in Large Neighborhood Search](https://shchan13.github.io/publications/ChanAAMAS24).  
   **Shao-Hung Chan**, Zhe Chen, Dian-Lun Lin, Yue Zhang, Daniel Harabor, Sven Koenig, Tsung-Wei Huang, and Thomy Phan.  
   <i>International Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, (in print), 2024.  
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanAAMAS24');">bibtex</a>]
@@ -60,6 +60,38 @@ You can also find my articles on
     author    = {Shao-Hung Chan and Zhe Chen and Dian-Lun Lin and Yue Zhang and Daniel Harabor and Sven Koenig and Tsung-Wei Huang and Thomy Phan},
     title     = {Anytime Multi-Agent Path Finding using Operation Parallelism in Large Neighborhood Search},
     booktitle = {Extended Abstracts of the International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)},
+    year      = {2024}
+  }
+  </pre></div>
+
+* [Theoretical Study on Multi-objective Heuristic Search](https://shchan13.github.io/publications/SkylerIJCAI24).  
+  Shawn Skyler, Shahaf Shperberg, Dor Atzmon, Ariel Felner, Oren Salzman, **Shao-Hung Chan**, Han Zhang, Sven Koenig, William Yeoh, and Carlos Hernandez.  
+  <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 7021--7028, 2024.  
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-SkylerIJCAI24');">bibtex</a>]
+  [[pdf](https://shchan13.github.io/files/SkylerIJCAI24.pdf)]
+  <div id="bibtex-SkylerIJCAI24" style="display:none">
+  <pre>@inproceedings{SkylerIJCAI24,
+    author    = {Shawn Skyler and Shahaf Shperberg and Dor Atzmon and Ariel Felner and Oren Salzman and Shao-Hung Chan and Han Zhang and Sven Koenig and William Yeoh and Carlos Hernandez},
+    title     = {Theoretical Study on Multi-objective Heuristic Search},
+    booktitle = {Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},
+    pages     = {7021--7028},
+    year      = {2024}
+  }
+  </pre></div>
+
+* [The League of Robot Runners: Competition Goals, Designs, and Implementation](https://shchan13.github.io/publications/ChanICAPS24).  
+  Shao-Hung Chan, Zhe Chen, Teng Guo, Han Zhang, Yue Zhang, Daniel Harabor, Sven Koenig, Cathy Wu, and Jingjin Yu.  
+  **ICAPS 2024 System's Demonstration Track Finalist**  
+  <i>ICAPS 2024 System's Demonstration Track</i>, pages 11-19, 2023.  
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanICAPS24');">bibtex</a>]
+  [[website](https://www.leagueofrobotrunners.org/)]
+  [[pdf](https://shchan13.github.io/files/ChanICAPS24.pdf)]
+  [[publisher](https://openreview.net/forum?id=mPmCnEHTvJ)]
+  <div id="bibtex-ChanICAPS24" style="display:none">
+  <pre>@inproceedings{ChanICAPS24,
+    author    = {Shao-Hung Chan and Zhe Chen and Teng Guo and Han Zhang and Yue Zhang and Daniel Harabor and Sven Koenig and Cathy Wu and Jingjin Yu},
+    title     = {The League of Robot Runners: Competition Goals, Designs, and Implementation},
+    booktitle = {ICAPS 2024 System's Demonstration track},
     year      = {2024}
   }
   </pre></div>
