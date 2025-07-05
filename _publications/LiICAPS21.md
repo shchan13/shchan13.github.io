@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 (**Winner of the NeurIPS'20 Flatland Challenge**).  
-Jiaoyang Li, Zhe Chen, Yi Zheng, **Shao-Hung Chan**, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.  
+Jiaoyang Li, Zhe Chen, Yi Zheng, **Shao-Hung Chan**, Daniel Harabor, Peter J. Stuckey, Hang Ma, and Sven Koenig.  
 <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 477-485, 2021.  
 A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18576) appeared at the <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 179-181, 2021. <br>
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-LiICAPS21');">bibtex</a>]
@@ -27,7 +27,7 @@ A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18576) appear
   year      = {2021}
 }
 </pre></div>  
- 
+
 <div style="text-align:center; width:100%; display: flex; align-items: center; justify-content: center;">
     <iframe style="max-width: 500px; aspect-ratio: 16/9;"
         src="https://www.youtube.com/embed/Pw4GBL1UhPA"
@@ -37,4 +37,5 @@ A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18576) appear
 </div>
 
 ## Abstract
+
 Multi-Agent Path Finding (MAPF) is the combinatorial problem of finding collision-free paths for multiple agents on a graph. This paper describes MAPF-based software for solving train planning and replanning problems on large-scale rail networks under uncertainty. The software recently won the 2020 Flatland Challenge, a NeurIPS competition trying to determine how to efficiently manage dense traffic on rail networks. The software incorporates many state-of-the-art MAPF or, in general, optimization technologies, such as prioritized planning, large neighborhood search, safe interval path planning, minimum communication policies, parallel computing, and simulated annealing. It can plan collision-free paths for thousands of trains within a few minutes and deliver deadlock-free actions in real-time during execution. 

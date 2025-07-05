@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Shao-Hung Chan**, Roni Stern, Ariel Felner and Sven Koenig.  
+**Shao-Hung Chan**, Roni Stern, Ariel Felner, and Sven Koenig.  
 <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 11-19, 2023.  
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanSoCS23');">bibtex</a>]
 [[code](https://github.com/shchan13/GPBS)]
@@ -24,4 +24,5 @@ author_profile: true
 </pre></div>
 
 ## Abstract
+
 Multi-Agent Path Finding (MAPF) is the problem of finding collision-free paths, one for each agent, in a shared environment, while minimizing their sum of travel times. Since solving MAPF optimally is NP-hard, researchers have explored algorithms that solve MAPF suboptimally but efficiently. Priority-Based Search (PBS) is the leading algorithm for this purpose. It finds paths for individual agents, one at a time, and resolves collisions by assigning priorities to the colliding agents and replanning their paths during its search. However, PBS becomes ineffective for MAPF instances with high densities of agents and obstacles. Therefore, we introduce Greedy PBS (GPBS), which uses greedy strategies to speed up PBS by minimizing the number of collisions between agents. We then propose techniques that speed up GPBS further, namely partial expansions, target reasoning, induced constraints, and soft restarts. We show that GPBS with all these improvements has a higher success rate than the state-of-the-art suboptimal algorithm for a 1-minute runtime limit, especially for MAPF instances with small maps and dense obstacles.
