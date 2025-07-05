@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+**Best System Demonstration Award Honorable Mention of ICAPS 2024**  
 Shao-Hung Chan, Zhe Chen, Teng Guo, Han Zhang, Yue Zhang, Daniel Harabor, Sven Koenig, Cathy Wu, and Jingjin Yu.  
-**The best system demonstration award honorable mention in ICAPS 2024**  
 <i>ICAPS 2024 System's Demonstration Track</i>, in print, 2024.  
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanICAPS24');">bibtex</a>]
 [[website](https://www.leagueofrobotrunners.org/)]
