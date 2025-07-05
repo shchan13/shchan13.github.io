@@ -18,6 +18,9 @@ You can also find my articles on
   Thomy Phan, **Shao-Hung Chan**, and Sven Koenig.
   <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 26651--26658, 2025.
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanAAMAS24');">bibtex</a>]
+  [[code](https://github.com/thomyphan/counterfactual-planning)]
+  [[pdf](https://shchan13.github.io/files/Phan2AAAI25.pdf)]
+  [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/21162)]
   <div id="bibtex-ChanAAMAS24" style="display:none">
   <pre>@inproceedings{Phan2AAAI25,
     author    = {Thomy Phan and Shao-Hung Chan and Sven Koenig},
@@ -32,6 +35,9 @@ You can also find my articles on
   Thomy Phan, Benran Zhang, **Shao-Hung Chan**, and Sven Koenig.
   <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 23286--23294, 2025.
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanAAMAS24');">bibtex</a>]
+  [[code](https://github.com/JimyZ13/ADDRESS)]
+  [[pdf](https://shchan13.github.io/files/Phan1AAAI25.pdf)]
+  [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/21162)]
   <div id="bibtex-ChanAAMAS24" style="display:none">
   <pre>@inproceedings{Phan1AAAI25,
     author    = {Thomy Phan and Benran Zhang and Shao-Hung Chan and Sven Koenig},
@@ -48,6 +54,7 @@ You can also find my articles on
   **Shao-Hung Chan**, Zhe Chen, Dian-Lun Lin, Yue Zhang, Daniel Harabor, Sven Koenig, Tsung-Wei Huang, and Thomy Phan.
   <i>International Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, (in print), 2024.
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanAAMAS24');">bibtex</a>]
+  [[pdf](https://shchan13.github.io/files/ChanAAMAS24.pdf)]
   <div id="bibtex-ChanAAMAS24" style="display:none">
   <pre>@inproceedings{ChanAAMAS24,
     author    = {Shao-Hung Chan and Zhe Chen and Dian-Lun Lin and Yue Zhang and Daniel Harabor and Sven Koenig and Tsung-Wei Huang and Thomy Phan},
