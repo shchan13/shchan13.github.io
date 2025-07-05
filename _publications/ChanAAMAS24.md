@@ -9,11 +9,10 @@ author_profile: true
 
 **Shao-Hung Chan**, Zhe Chen, Dian-Lun Lin, Yue Zhang, Daniel Harabor, Sven Koenig, Tsung-Wei Huang, Thomy Phan.  
 <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 9313-9322, 2022.  
-[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanAAAI22');">bibtex</a>]
-[[code](https://github.com/shchan13/FEECBS)]
-[[pdf](https://shchan13.github.io/files/ChanAAAI22.pdf)]
+[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanAAMAS24');">bibtex</a>]
+[[pdf](https://shchan13.github.io/files/ChanAAMAS24.pdf)]
 [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/21162)]
-<div id="bibtex-ChanAAAI22" style="display:none">
+<div id="bibtex-ChanAAMAS24" style="display:none">
 <pre>@inproceedings{ChanAAMAS24,
   author    = {Shao-Hung Chan and Zhe Chen and Dian-Lun Lin and Yue Zhang and Daniel Harabor and Sven Koenig and Tsung-Wei Huang and Thomy Phan},
   title     = {Anytime Multi-Agent Path Finding using Operation Parallelism in Large Neighborhood Search},
