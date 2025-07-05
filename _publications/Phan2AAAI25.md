@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Thomy Phan, **Shao-Hung Chan**, and Sven Koenig.
-<i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 26651--26658, 2025.
+Thomy Phan, **Shao-Hung Chan**, and Sven Koenig.  
+<i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 26651--26658, 2025.  
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Phan2AAAI25');">bibtex</a>]
 [[code](https://github.com/thomyphan/counterfactual-planning)]
 [[pdf](https://shchan13.github.io/files/Phan2AAAI25.pdf)]

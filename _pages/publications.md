@@ -50,7 +50,7 @@ You can also find my articles on
 
 ## <a name="year2024"></a> 2024
 
-* [Anytime Multi-Agent Path Finding using Operation Parallelism in Large Neighborhood Search (Extended Abstract)]((https://shchan13.github.io/publications/ChanAAMAS24)).  
+* [Anytime Multi-Agent Path Finding using Operation Parallelism in Large Neighborhood Search (Extended Abstract)](https://shchan13.github.io/publications/ChanAAMAS24).  
   **Shao-Hung Chan**, Zhe Chen, Dian-Lun Lin, Yue Zhang, Daniel Harabor, Sven Koenig, Tsung-Wei Huang, and Thomy Phan.  
   <i>International Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, (in print), 2024.  
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanAAMAS24');">bibtex</a>]

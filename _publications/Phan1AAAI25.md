@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Thomy Phan, Benran Zhang, **Shao-Hung Chan**, and Sven Koenig.
-<i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 23286--23294, 2025.
+Thomy Phan, Benran Zhang, **Shao-Hung Chan**, and Sven Koenig.  
+<i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 23286--23294, 2025.  
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Phan1AAAI25');">bibtex</a>]
 [[code](https://github.com/JimyZ13/ADDRESS)]
 [[pdf](https://shchan13.github.io/files/Phan1AAAI25.pdf)]
