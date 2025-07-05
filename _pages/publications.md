@@ -68,22 +68,6 @@ You can also find my articles on
   }
   </pre></div>
 
-* [Theoretical Study on Multi-objective Heuristic Search](https://shchan13.github.io/publications/SkylerIJCAI24).  
-  Shawn Skyler, Shahaf Shperberg, Dor Atzmon, Ariel Felner, Oren Salzman, **Shao-Hung Chan**, Han Zhang, Sven Koenig, William Yeoh, and Carlos Hernandez.  
-  <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 7021--7028, 2024.  
-  A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/27305) appeared at the <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 183-184, 2023.  
-  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-SkylerIJCAI24');">bibtex</a>]
-  [[pdf](https://shchan13.github.io/files/SkylerIJCAI24.pdf)]
-  <div id="bibtex-SkylerIJCAI24" style="display:none">
-  <pre>@inproceedings{SkylerIJCAI24,
-    author    = {Shawn Skyler and Shahaf Shperberg and Dor Atzmon and Ariel Felner and Oren Salzman and Shao-Hung Chan and Han Zhang and Sven Koenig and William Yeoh and Carlos Hernandez},
-    title     = {Theoretical Study on Multi-objective Heuristic Search},
-    booktitle = {Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},
-    pages     = {7021--7028},
-    year      = {2024}
-  }
-  </pre></div>
-
 * [The League of Robot Runners: Competition Goals, Designs, and Implementation](https://shchan13.github.io/publications/ChanICAPS24).  
   **Best System Demonstration Award Honorable Mention of ICAPS 2024**  
   Shao-Hung Chan, Zhe Chen, Teng Guo, Han Zhang, Yue Zhang, Daniel Harabor, Sven Koenig, Cathy Wu, and Jingjin Yu.  
@@ -98,6 +82,22 @@ You can also find my articles on
     author    = {Shao-Hung Chan and Zhe Chen and Teng Guo and Han Zhang and Yue Zhang and Daniel Harabor and Sven Koenig and Cathy Wu and Jingjin Yu},
     title     = {The League of Robot Runners: Competition Goals, Designs, and Implementation},
     booktitle = {Proceedings of the ICAPS 2024 System's Demonstration Track},
+    year      = {2024}
+  }
+  </pre></div>
+
+* [Theoretical Study on Multi-objective Heuristic Search](https://shchan13.github.io/publications/SkylerIJCAI24).  
+  Shawn Skyler, Shahaf Shperberg, Dor Atzmon, Ariel Felner, Oren Salzman, **Shao-Hung Chan**, Han Zhang, Sven Koenig, William Yeoh, and Carlos Hernandez.  
+  <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 7021--7028, 2024.  
+  A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/27305) appeared at the <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 183-184, 2023.  
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-SkylerIJCAI24');">bibtex</a>]
+  [[pdf](https://shchan13.github.io/files/SkylerIJCAI24.pdf)]
+  <div id="bibtex-SkylerIJCAI24" style="display:none">
+  <pre>@inproceedings{SkylerIJCAI24,
+    author    = {Shawn Skyler and Shahaf Shperberg and Dor Atzmon and Ariel Felner and Oren Salzman and Shao-Hung Chan and Han Zhang and Sven Koenig and William Yeoh and Carlos Hernandez},
+    title     = {Theoretical Study on Multi-objective Heuristic Search},
+    booktitle = {Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},
+    pages     = {7021--7028},
     year      = {2024}
   }
   </pre></div>
