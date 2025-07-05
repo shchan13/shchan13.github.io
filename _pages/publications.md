@@ -88,7 +88,7 @@ You can also find my articles on
   [[website](https://www.leagueofrobotrunners.org/)]
   [[pdf](https://shchan13.github.io/files/ChanICAPS24.pdf)]
   [[publisher](https://openreview.net/forum?id=mPmCnEHTvJ)]
-  [[vidoe](https://drive.google.com/file/d/1513znU2bdkOEKddaOiiZfn3n5_cGufal/view)]
+  [[video](https://drive.google.com/file/d/1513znU2bdkOEKddaOiiZfn3n5_cGufal/view)]
   <div id="bibtex-ChanICAPS24" style="display:none">
   <pre>@inproceedings{ChanICAPS24,
     author    = {Shao-Hung Chan and Zhe Chen and Teng Guo and Han Zhang and Yue Zhang and Daniel Harabor and Sven Koenig and Cathy Wu and Jingjin Yu},
