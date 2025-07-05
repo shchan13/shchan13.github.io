@@ -16,7 +16,7 @@ My research interests are based on multi-agent system. I am interested in develo
 ## News
 
 * [2025/07] Our paper [New Mechanisms in Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS25) was accepted to [SoCS 2025](https://socs25.search-conference.org/).  
-* [2025/01] Two papers ([Anytime Multi-Agent Path Finding with an Adaptive Delay-Based Heuristic](https://shchan13.github.io/publications/Phan1AAAI25) and [Counterfactual Online Learning for Open-Loop Monte-Carlo Planning](https://shchan13.github.io/publications/Phan2AAAI25)) were accepted to [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).  
+* [2025/01] Two papers, [Anytime Multi-Agent Path Finding with an Adaptive Delay-Based Heuristic](https://shchan13.github.io/publications/Phan1AAAI25) and [Counterfactual Online Learning for Open-Loop Monte-Carlo Planning](https://shchan13.github.io/publications/Phan2AAAI25), were accepted to [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).  
 * [2024/08] Our paper [Theoretical Study on Multi-objective Heuristic Search](https://shchan13.github.io/publications/SkylerIJCAI25) was accepted to [IJCAI 2024](https://ijcai24.org/).  
 * [2024/07] I will start an internship from July 15, 2024 to January 10, 2025, working for [Robert Bosch GmbH](https://www.bosch.com/research/) in Renningen, Germany.  
 * [2024/06] Our [The League of Robot Runners: Competition Goals, Designs, and Implementation](https://shchan13.github.io/publications/ChanICAPS24/) received **the best system demonstration award honorable mention**. Please also check out our [video](https://drive.google.com/file/d/1513znU2bdkOEKddaOiiZfn3n5_cGufal/view) for more info.
