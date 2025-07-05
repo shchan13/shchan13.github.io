@@ -14,6 +14,10 @@ You can also find my articles on
 
 ## <a name="year2025"></a> 2025
 
+* [New Mechanisms in Flex Distribution for Bounded Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS25).
+  **Shao-Hung Chan**, Thomy Phan, Jiaoyang Li, and Sven Koenig.  
+  <i>International Symposium on Combinatorial Search (**SoCS**)</i>, in print, 2025.  
+
 * [Counterfactual Online Learning for Open-Loop Monte-Carlo Planning](https://shchan13.github.io/publications/Phan2AAAI25).  
   Thomy Phan, **Shao-Hung Chan**, and Sven Koenig.  
   <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 26651--26658, 2025.  
