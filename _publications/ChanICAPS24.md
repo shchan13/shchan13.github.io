@@ -24,14 +24,6 @@ Shao-Hung Chan, Zhe Chen, Teng Guo, Han Zhang, Yue Zhang, Daniel Harabor, Sven K
 }
 </pre></div>
 
-<div style="text-align:center; width:100%; display: flex; align-items: center; justify-content: center;">
-    <iframe style="max-width: 500px; aspect-ratio: 16/9;"
-        src="https://drive.google.com/file/d/1513znU2bdkOEKddaOiiZfn3n5_cGufal/view"
-        title="YouTube video player" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
-</div>
-
 ## Abstract
 
 Multi-Agent Path Finding (MAPF) is an important practical problem found in many application settings, from logistics and transportation to robotics and automation. In this paper, we introduce the goals, designs and implementations of the League of Robot Runners (LoRR) 1, a competition to foster and advance this research area. LoRR aims to identify the core challenges for solving MAPF, develop suitable benchmark instances, evaluate algorithmic performance and track the state-of-the-art. The competition provides participants with a standardised system to develop, evaluate, and compare algorithmic techniques. Submissions, solutions and problem instances are all open sourced, to lower barriers, promote dissemination and enable further advancements.
