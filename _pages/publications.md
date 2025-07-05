@@ -67,6 +67,7 @@ You can also find my articles on
 * [Theoretical Study on Multi-objective Heuristic Search](https://shchan13.github.io/publications/SkylerIJCAI24).  
   Shawn Skyler, Shahaf Shperberg, Dor Atzmon, Ariel Felner, Oren Salzman, **Shao-Hung Chan**, Han Zhang, Sven Koenig, William Yeoh, and Carlos Hernandez.  
   <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, pages 7021--7028, 2024.  
+  A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/27305) appeared at the <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 183-184, 2023.  
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-SkylerIJCAI24');">bibtex</a>]
   [[pdf](https://shchan13.github.io/files/SkylerIJCAI24.pdf)]
   <div id="bibtex-SkylerIJCAI24" style="display:none">
@@ -164,22 +165,6 @@ You can also find my articles on
     year      = {2023},
     doi       = {10.24963/ijcai.2023/850},
     url       = {https://doi.org/10.24963/ijcai.2023/850}
-  }</pre>
-  </div>
-
-* Must-Expand Nodes in Multi-Objective Search (Extended Abstract).  
-  Shawn Skyler, Shahaf Shperberg, Dor Atzmon, Ariel Felner, Oren Salzman, **Shao-Hung Chan**, Han Zhang, Sven Koenig, William Yeoh, and Carlos Hernández Ulloa.  
-  <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 183-184, 2023.  
-  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-SkylerSoCS23');">bibtex</a>]
-  [[pdf](https://shchan13.github.io/files/SkylerSoCS23.pdf)]
-  [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/27278)]
-  <div id="bibtex-SkylerSoCS23" style="display:none">
-  <pre>@inproceedings{SkylerSoCS23,
-    author    = {Shawn Skyler and Shahaf Shperberg and Dor Atzmon and Ariel Felner and Oren Salzman and Shao-Hung Chan and Han Zhang and Sven Koenig and William Yeoh and Carlos Hernández Ulloa},
-    title     = {Must-Expand Nodes in Multi-Objective Search},
-    booktitle = {Extended Abstracts of the International Symposium on Combinatorial Search (SoCS)},
-    pages     = {183--184},
-    year      = {2023}
   }</pre>
   </div>
 
