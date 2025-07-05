@@ -14,7 +14,7 @@ You can also find my articles on
 
 ## <a name="year2025"></a> 2025
 
-* [Counterfactual Online Learning for Open-Loop Monte-Carlo Planning]((https://shchan13.github.io/publications/Phan2AAAI25)).
+* [Counterfactual Online Learning for Open-Loop Monte-Carlo Planning](https://shchan13.github.io/publications/Phan2AAAI25).
   Thomy Phan, **Shao-Hung Chan**, and Sven Koenig.
   <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 26651--26658, 2025.
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanAAMAS24');">bibtex</a>]
