@@ -70,7 +70,7 @@ You can also find my articles on
 
 * [The League of Robot Runners: Competition Goals, Designs, and Implementation](https://shchan13.github.io/publications/ChanICAPS24).  
   **Best System Demonstration Award Honorable Mention of ICAPS 2024**  
-  Shao-Hung Chan, Zhe Chen, Teng Guo, Han Zhang, Yue Zhang, Daniel Harabor, Sven Koenig, Cathy Wu, and Jingjin Yu.  
+  **Shao-Hung Chan**, Zhe Chen, Teng Guo, Han Zhang, Yue Zhang, Daniel Harabor, Sven Koenig, Cathy Wu, and Jingjin Yu.  
   <i>ICAPS 2024 System's Demonstration Track</i>, 2024.  
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanICAPS24');">bibtex</a>]
   [[website](https://www.leagueofrobotrunners.org/)]
