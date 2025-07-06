@@ -19,7 +19,7 @@ My research interests are based on multi-agent system. I am interested in develo
 * [2023] First place of the virtual competition in the IEEE RAS Summer School on Multi-Robot Systems.  
 * [2022] Best student paper award in the International Symposium on Combinatorial Search (SoCS).  
 * [2022] Fellowship for the PhD Sandwich Program from Ben-Gurion University of the Negev.  
-* [2020] First place in Flatland Challenge in NeurIPS 2020 Competition in NeurIPS.  
+* [2020] First place in Flatland Challenge in NeurIPS 2020 Competition.  
 * [2019] Best master thesis award of the year in NTUEE.  
 * [2018] Best student paper award Finalist in SMC 2018.  
 * [2016] Fellowship for the exchange program to University of California, Berkeley.  
@@ -31,7 +31,7 @@ My research interests are based on multi-agent system. I am interested in develo
 * [2024/08] Our paper [Theoretical Study on Multi-objective Heuristic Search](https://shchan13.github.io/publications/SkylerIJCAI25) was accepted to [IJCAI 2024](https://ijcai24.org/).  
 * [2024/07] I started an internship from July 15, 2024 to January 10, 2025, working for [Robert Bosch GmbH](https://www.bosch.com/research/) in Renningen, Germany.  
 * [2024/06] Our [The League of Robot Runners: Competition Goals, Designs, and Implementation](https://shchan13.github.io/publications/ChanICAPS24/) received the best system demonstration award honorable mention in ICAPS 2024. Please also check out our [video](https://drive.google.com/file/d/1513znU2bdkOEKddaOiiZfn3n5_cGufal/view) for more info.
-* [CFP] We are excited and delighted to send out the call of submissions for the [2024 League of Robot Runners Virtual Expo](https://www.leagueofrobotrunners.org/news). The submission deadline is **April 14, 2024**.  
+* [CFP] We are excited and delighted to send out the call of submissions for the [2024 League of Robot Runners Virtual Expo](https://www.leagueofrobotrunners.org/news). The submission deadline is April 14, 2024.  
 * [2024/01] Our paper [Anytime Multi-Agent Path Finding using Operation Parallelism in Large Neighborhood Search](https://shchan13.github.io/publications/ChanAAMAS24) was accepted as an extended abstract in [AAMAS 2024](https://www.aamas2024-conference.auckland.ac.nz).  
 * [2023/12] We finished running [The League of Robot Runners](https://www.leagueofrobotrunners.org/). Thanks for all the participation!  
 * [2023/07] Our paper [Greedy Priority-Based Search for Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS23) was accepted to [SoCS 2023](https://socs23.search-conference.org/).  
