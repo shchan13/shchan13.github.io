@@ -104,7 +104,7 @@ You can also find my articles on
 
 ## <a name="year2023"></a> 2023
 
-* [Greedy Priority-Based Search for Suboptimali Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS23).  
+* [Greedy Priority-Based Search for Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS23).  
   **Shao-Hung Chan**, Roni Stern, Ariel Felner, and Sven Koenig.  
   <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 11--19, 2023.  
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanSoCS23');">bibtex</a>]
