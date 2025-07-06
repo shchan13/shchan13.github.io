@@ -91,5 +91,5 @@ My research interests are based on multi-agent system. I am interested in develo
     <li>
       [2022.01] Our paper <a href="https://shchan13.github.io/publications/ChanAAAI22">Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding</a> was accepted to <a href="https://aaai.org/conference/aaai/aaai-22/">AAAI 2022</a>.
     </li>
-  </ui>
+  </ul>
 </details>
