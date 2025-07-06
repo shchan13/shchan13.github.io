@@ -52,13 +52,13 @@ My research interests are based on multi-agent system. I am interested in develo
 
 ## Honors and Awards
 
-* [2024] Best system demonstration award honorable mention in ICAPS 2024 System's Demonstration Track.  
+* [2024] Best system demonstration award honorable mention in ICAPS System's Demonstration Track.  
 * [2023] First place of the virtual competition in the IEEE RAS Summer School on Multi-Robot Systems.  
 * [2022] Best student paper award in the International Symposium on Combinatorial Search (SoCS).  
-* [2022] Fellowship for the PhD Sandwich Program from Ben-Gurion University of the Negev.  
+* [2022] Fellowship for the Ph.D. Sandwich Program from Ben-Gurion University of the Negev.  
 * [2020] First place in Flatland Challenge in NeurIPS 2020 Competition.  
 * [2019] Best master thesis award of the year in NTUEE.  
-* [2018] Best student paper award Finalist in SMC 2018.  
+* [2018] Best student paper award finalist in the IEEE International Conference on Systems, Man, and Cybernetics (SMC).  
 * [2016] Fellowship for the exchange program to University of California, Berkeley.  
 
 ## News
