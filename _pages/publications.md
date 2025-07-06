@@ -71,7 +71,7 @@ You can also find my articles on
 * [The League of Robot Runners: Competition Goals, Designs, and Implementation](https://shchan13.github.io/publications/ChanICAPS24).  
   **Best System Demonstration Award Honorable Mention of ICAPS 2024**  
   Shao-Hung Chan, Zhe Chen, Teng Guo, Han Zhang, Yue Zhang, Daniel Harabor, Sven Koenig, Cathy Wu, and Jingjin Yu.  
-  <i>ICAPS 2024 System's Demonstration Track</i>, pages 11-19, 2023.  
+  <i>ICAPS 2024 System's Demonstration Track</i>, 2024.  
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanICAPS24');">bibtex</a>]
   [[website](https://www.leagueofrobotrunners.org/)]
   [[pdf](https://shchan13.github.io/files/ChanICAPS24.pdf)]
@@ -106,7 +106,7 @@ You can also find my articles on
 
 * [Greedy Priority-Based Search for Suboptimali Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS23).  
   **Shao-Hung Chan**, Roni Stern, Ariel Felner, and Sven Koenig.  
-  <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 11-19, 2023.  
+  <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 11--19, 2023.  
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanSoCS23');">bibtex</a>]
   [[code](https://github.com/shchan13/GPBS)]
   [[pdf](https://shchan13.github.io/files/ChanSoCS23.pdf)]
@@ -196,7 +196,7 @@ You can also find my articles on
 * [On Merging Agents in Multi-Agent Pathfinding Algorithms](https://shchan13.github.io/publications/BoyarskiSoCS22).  
   **Best Student Paper Award of SOCS 2022**  
   Eli Boyarski, **Shao-Hung Chan**, Dor Atzmon, Ariel Felner, and Sven Koenig.  
-  <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 11-19, 2022.  
+  <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 11--19, 2022.  
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-BoyarskiSoCS22');">bibtex</a>]
   [[pdf](https://shchan13.github.io/files/BoyarskiSoCS22.pdf)]
   [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/21747)]
