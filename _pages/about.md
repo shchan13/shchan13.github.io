@@ -18,37 +18,10 @@ My research interests are based on multi-agent system. I am interested in develo
 * [Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanAAAI22).  
   **Shao-Hung Chan**, Jiaoyang Li, Graeme Gange, Daniel Harabor, Peter J. Stuckey, and Sven Koenig.  
   <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 9313-9322, 2022.  
-  A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/18569) appeared at the <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 159-161, 2021.  
-  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanAAAI22');">bibtex</a>]
-  [[code](https://github.com/shchan13/FEECBS)]
-  [[pdf](https://shchan13.github.io/files/ChanAAAI22.pdf)]
-  [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/21162)]
-  <div id="bibtex-ChanAAAI22" style="display:none">
-  <pre>@inproceedings{ChanAAAI22,
-    author    = {Shao-Hung Chan and Jiaoyang Li and Graeme Gange and Daniel Harabor and Peter J. Stuckey and Sven Koenig},
-    title     = {Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding},
-    booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
-    pages     = {9313--9322},
-    year      = {2022}
-  }</pre>
-  </div>
 
 * [Greedy Priority-Based Search for Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS23).  
   **Shao-Hung Chan**, Roni Stern, Ariel Felner, and Sven Koenig.  
-  <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 11--19, 2023.  
-  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanSoCS23');">bibtex</a>]
-  [[code](https://github.com/shchan13/GPBS)]
-  [[pdf](https://shchan13.github.io/files/ChanSoCS23.pdf)]
-  [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/27278)]    
-  <div id="bibtex-ChanSoCS23" style="display:none">
-  <pre>@inproceedings{ChanSoCS23,
-    author    = {Shao-Hung Chan and Roni Stern and Ariel Felner and Sven Koenig},
-    title     = {Greedy Priority-Based Search for Suboptimal Multi-Agent Path Finding},
-    booktitle = {Proceedings of the International Symposium on Combinatorial Search (SoCS)},
-    pages     = {11--19},
-    year      = {2023}
-  }</pre>
-  </div>
+  <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 11--19, 2023.
 
 ## Honors and Awards
 
