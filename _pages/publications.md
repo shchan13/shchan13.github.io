@@ -92,6 +92,7 @@ You can also find my articles on
   A [short version](https://ojs.aaai.org/index.php/SOCS/article/view/27305) appeared at the <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 183-184, 2023.  
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-SkylerIJCAI24');">bibtex</a>]
   [[pdf](https://shchan13.github.io/files/SkylerIJCAI24.pdf)]
+  [[publisher](https://www.ijcai.org/proceedings/2024/776)]
   <div id="bibtex-SkylerIJCAI24" style="display:none">
   <pre>@inproceedings{SkylerIJCAI24,
     author    = {Shawn Skyler and Shahaf Shperberg and Dor Atzmon and Ariel Felner and Oren Salzman and Shao-Hung Chan and Han Zhang and Sven Koenig and William Yeoh and Carlos Hernandez},
