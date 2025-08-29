@@ -19,6 +19,10 @@ My research interests are based on multi-agent system. I am interested in develo
   **Shao-Hung Chan**, Jiaoyang Li, Graeme Gange, Daniel Harabor, Peter J. Stuckey, and Sven Koenig.  
   <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 9313-9322, 2022.  
 
+* [New Mechanisms in Flex Distribution for Bounded Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS25).  
+  **Shao-Hung Chan**, Thomy Phan, Jiaoyang Li, and Sven Koenig.  
+  <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 47--55, 2025.  
+
 * [Greedy Priority-Based Search for Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS23).  
   **Shao-Hung Chan**, Roni Stern, Ariel Felner, and Sven Koenig.  
   <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 11--19, 2023.
@@ -39,7 +43,7 @@ My research interests are based on multi-agent system. I am interested in develo
 
 ## News
 
-* [2025.07] Our paper [New Mechanisms in Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS25) was accepted to [SoCS 2025](https://socs25.search-conference.org/).  
+* [2025.07] Our paper [New Mechanisms in Flex Distribution for Bounded Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS25) was accepted to [SoCS 2025](https://socs25.search-conference.org/).  
 * [2025.01] Our two papers, [Anytime Multi-Agent Path Finding with an Adaptive Delay-Based Heuristic](https://shchan13.github.io/publications/Phan1AAAI25) and [Counterfactual Online Learning for Open-Loop Monte-Carlo Planning](https://shchan13.github.io/publications/Phan2AAAI25), were accepted to [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).  
 * [2024.08] Our paper [Theoretical Study on Multi-objective Heuristic Search](https://shchan13.github.io/publications/SkylerIJCAI25) was accepted to [IJCAI 2024](https://ijcai24.org/).  
 * [2024.07] I started an internship from July 15, 2024 to January 10, 2025, working for [Robert Bosch GmbH](https://www.bosch.com/research/) in Renningen, Germany.  

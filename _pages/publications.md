@@ -16,7 +16,20 @@ You can also find my articles on
 
 * [New Mechanisms in Flex Distribution for Bounded Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS25).  
   **Shao-Hung Chan**, Thomy Phan, Jiaoyang Li, and Sven Koenig.  
-  <i>International Symposium on Combinatorial Search (**SoCS**)</i>, in print, 2025.  
+  <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 47--55, 2025.  
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Phan2AAAI25');">bibtex</a>]
+  [[code](https://github.com/shchan13/EECBS-MFD.git)]
+  [[pdf](https://shchan13.github.io/files/ChanSoCS25.pdf)]
+  [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/35975)]
+  <div id="bibtex-ChanSOCS2025" style="display:none">
+  <pre>@inproceedings{ChanSOCS2025,
+    author    = {Shao-Hung Chan and Thomy Phan and Jiaoyang Li and Sven Koenig},
+    title     = {New Mechanisms in Flex Distribution for Bounded Suboptimal Multi-Agent Path Finding},
+    booktitle = {Proceedings of the International Symposium on Combinatorial Search (SoCS)},
+    pages     = {47--55},
+    year      = {2025}
+  }
+  </pre></div>
 
 * [Counterfactual Online Learning for Open-Loop Monte-Carlo Planning](https://shchan13.github.io/publications/Phan2AAAI25).  
   Thomy Phan, **Shao-Hung Chan**, and Sven Koenig.  
@@ -195,7 +208,7 @@ You can also find my articles on
   </div>
 
 * [On Merging Agents in Multi-Agent Pathfinding Algorithms](https://shchan13.github.io/publications/BoyarskiSoCS22).  
-  **Best Student Paper Award of SOCS 2022**  
+  **Best Student Paper Award of SoCS 2022**  
   Eli Boyarski, **Shao-Hung Chan**, Dor Atzmon, Ariel Felner, and Sven Koenig.  
   <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 11--19, 2022.  
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-BoyarskiSoCS22');">bibtex</a>]
