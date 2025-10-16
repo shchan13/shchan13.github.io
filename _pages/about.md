@@ -11,7 +11,8 @@ redirect_from:
 I am a Ph.D. candidate at the [University of Southern California](https://www.usc.edu), advised by Professor [Sven Koenig](http://idm-lab.org/index.html).
 Before that, I received my M.Sci degree from [National Taiwan University](https://www.ntu.edu.tw/) in 2019 and B.Sci degree from [National Cheng Kung University](https://www.ncku.edu.tw/) in 2017.
 
-My research interests are based on multi-agent system. I am interested in developing heuristic search algorithms that solve [Multi-Agent Path Finding (MAPF)](http://mapf.info/) in the large-scale environment such as automated warehouses.
+My long-term research goal is to **develop algorithmic approaches that enable multi-agent systems to efficiently and robustly achieve collaborative tasks in dynamic environments**.
+In particular, I am interested in developing heuristic search algorithms that solve [Multi-Agent Path Finding (MAPF)](http://mapf.info/) with thousands of agents moving in the large-scale environment, such as automated warehouses.
 
 ## Selected Publications
 
