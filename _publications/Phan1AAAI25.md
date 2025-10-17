@@ -12,7 +12,7 @@ Thomy Phan, Benran Zhang, **Shao-Hung Chan**, and Sven Koenig.
 [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Phan1AAAI25');">bibtex</a>]
 [[code](https://github.com/JimyZ13/ADDRESS)]
 [[pdf](https://shchan13.github.io/files/Phan1AAAI25.pdf)]
-[[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/21162)]
+[[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/34495)]
 <div id="bibtex-Phan1AAAI25" style="display:none">
 <pre>@inproceedings{Phan1AAAI25,
   author    = {Thomy Phan and Benran Zhang and Shao-Hung Chan and Sven Koenig},
