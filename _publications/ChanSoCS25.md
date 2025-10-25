@@ -8,7 +8,20 @@ author_profile: true
 {% include base_path %}
 
 **Shao-Hung Chan**, Thomy Phan, Jiaoyang Li, and Sven Koenig.  
-<i>International Symposium on Combinatorial Search (**SoCS**)</i>, in print, 2025.  
+<i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 47-55, 2025.  
+[<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanSoCS23');">bibtex</a>]
+[[code](https://github.com/shchan13/EECBS-MFD)]
+[[pdf](https://shchan13.github.io/files/ChanSoCS25.pdf)]
+[[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/35975)]
+<div id="bibtex-ChanSoCS23" style="display:none">
+<pre>@inproceedings{ChanSoCS25,
+  author    = {Shao-Hung Chan and Thomy Phan and Jiaoyang Li and Sven Koenig},
+  title     = {New Mechanisms in Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding},
+  booktitle = {Proceedings of the International Symposium on Combinatorial Search (SoCS)},
+  pages     = {47--55},
+  year      = {2025}
+}
+</pre></div>
 
 ## Abstract
 

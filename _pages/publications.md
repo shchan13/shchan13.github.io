@@ -18,7 +18,7 @@ You can also find my articles on
   **Shao-Hung Chan**, Thomy Phan, Jiaoyang Li, and Sven Koenig.  
   <i>International Symposium on Combinatorial Search (**SoCS**)</i>, pages 47--55, 2025.  
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Phan2AAAI25');">bibtex</a>]
-  [[code](https://github.com/shchan13/EECBS-MFD.git)]
+  [[code](https://github.com/shchan13/EECBS-MFD)]
   [[pdf](https://shchan13.github.io/files/ChanSoCS25.pdf)]
   [[publisher](https://ojs.aaai.org/index.php/SOCS/article/view/35975)]
   <div id="bibtex-ChanSOCS2025" style="display:none">
