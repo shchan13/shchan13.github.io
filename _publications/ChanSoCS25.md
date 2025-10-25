@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "New Mechanisms in Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding"
+title: "New Mechanisms in Flex Distribution for Bounded Suboptimal Multi-Agent Path Finding"
 permalink: /publications/ChanSoCS25/
 author_profile: true
 ---
@@ -16,7 +16,7 @@ author_profile: true
 <div id="bibtex-ChanSoCS23" style="display:none">
 <pre>@inproceedings{ChanSoCS25,
   author    = {Shao-Hung Chan and Thomy Phan and Jiaoyang Li and Sven Koenig},
-  title     = {New Mechanisms in Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding},
+  title     = {New Mechanisms in Flex Distribution for Bounded Suboptimal Multi-Agent Path Finding},
   booktitle = {Proceedings of the International Symposium on Combinatorial Search (SoCS)},
   pages     = {47--55},
   year      = {2025}
