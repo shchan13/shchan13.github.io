@@ -46,6 +46,7 @@ In particular, I am interested in developing heuristic search algorithms that so
 
 ## News
 
+* [2026.01] Our two papers [Dynamic Agent Grouping ECBS: Scaling Windowed Multi-Agent Path Finding with Completeness Guarantees](https://shchan13.github.io/publications/ZhangAAAI26/) and [Truncated Counterfactual Learning for Anytime Multi-Agent Path Finding](https://shchan13.github.io/publications/PhanAAAI26/) were accepted to [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
 * [2025.12] Our paper [Operation Parallelism in Large Neighborhood Search for Anytime Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanMRS25/) was accepted to [MRS 2025](https://www.sutd.edu.sg/mrs2025/).
 * [2025.07] Our paper [New Mechanisms in Flex Distribution for Bounded Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS25/) was accepted to [SoCS 2025](https://socs25.search-conference.org/).  
 * [2025.01] Our two papers, [Anytime Multi-Agent Path Finding with an Adaptive Delay-Based Heuristic](https://shchan13.github.io/publications/Phan1AAAI25) and [Counterfactual Online Learning for Open-Loop Monte-Carlo Planning](https://shchan13.github.io/publications/Phan2AAAI25/), were accepted to [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).  

@@ -10,9 +10,61 @@ You can also find my articles on
 
 {% include base_path %}
 
-[2025](#year2025) | [2024](#year2024) | [2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020) | [2019](#year2019) | [2018](#year2018) | [Master Thesis](#msci)
+[2026](#year2026) | [2025](#year2025) | [2024](#year2024) | [2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020) | [2019](#year2019) | [2018](#year2018) | [Master Thesis](#msci)
+
+## <a name="year2026"></a> 2026
+
+* [Dynamic Agent Grouping ECBS: Scaling Windowed Multi-Agent Path Finding with Completeness Guarantees](https://shchan13.github.io/publications/ZhangAAAI26).
+  Tiannan Zhang, Rishi Veerapaneni, **Shao-Hung Chan**, Jiaoyang Li, and Maxim Likhachev.  
+  <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 29911--29920, 2026.  
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangAAAI26');">bibtex</a>]
+  [[code](https://github.com/Rishi-V/Windowed-Complete-MAPF)]
+  [[pdf](https://shchan13.github.io/files/ZhangAAAI26.pdf)]
+  [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/40238)]
+  <div id="bibtex-ZhangAAAI26" style="display:none">
+  <pre>@inproceedings{ZhangAAAI26,
+    author    = {Tiannan Zhang and Rishi Veerapaneni and Shao-Hung Chan and Jiaoyang Li and Maxim Likhachev},
+    title     = {Dynamic Agent Grouping ECBS: Scaling Windowed Multi-Agent Path Finding with Completeness Guarantees},
+    booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+    pages     = {29911--29920},
+    year      = {2026}
+  }
+  </pre></div>
+
+* [Truncated Counterfactual Learning for Anytime Multi-Agent Path Finding](https://shchan13.github.io/publications/PhanAAAI26).
+  Thomy Phan, **Shao-Hung Chan**, and Sven Koenig.  
+  <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 29633--29641, 2026.  
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-PhanAAAI26');">bibtex</a>]
+  [[code](https://github.com/thomyphan/counterfactual-mapf-lns)]
+  [[pdf](https://shchan13.github.io/files/PhanAAAI26.pdf)]
+  [[publisher](https://ojs.aaai.org/index.php/AAAI/article/view/40207)]
+  <div id="bibtex-PhanAAAI26" style="display:none">
+  <pre>@inproceedings{PhanAAAI26,
+    author    = {Thomy Phan and Shao-Hung Chan and Sven Koenig},
+    title     = {Truncated Counterfactual Learning for Anytime Multi-Agent Path Finding},
+    booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+    pages     = {29633--29641},
+    year      = {2026}
+  }
 
 ## <a name="year2025"></a> 2025
+
+* [Operation Parallelism in Large Neighborhood Search for Anytime Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanMRS25).  
+  **Shao-Hung Chan**, Zhe Chen, Dian-Lun Lin, Yue Zhang, Daniel Harabor, Sven Koenig, Tsung-Wei Huang, and Thomy Phan.  
+  **Best Paper Award Finalist of IEEE MRS 2025**  
+  <i>IEEE International Symposium on Multi-Robot and Multi-Agent Systems (**MRS**)</i>, pages 1--7, 2025.  
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ChanMRS25');">bibtex</a>]
+  [[pdf](https://shchan13.github.io/files/ChanMRS25.pdf)]
+  [[publisher](https://ieeexplore.ieee.org/abstract/document/11357253)]
+  <div id="bibtex-ChanMRS25" style="display:none">
+  <pre>@inproceedings{ChanMRS25,
+    author    = {Shao-Hung Chan and Zhe Chen and Dian-Lun Lin and Yue Zhang and Daniel Harabor and Sven Koenig and Tsung-Wei Huang and Thomy Phan},
+    title     = {Operation Parallelism in Large Neighborhood Search for Anytime Multi-Agent Path Finding},
+    booktitle = {2025 IEEE International Symposium on Multi-Robot and Multi-Agent Systems (MRS)},
+    pages     = {1--7},
+    year      = {2025}
+  }
+  </pre></div>
 
 * [New Mechanisms in Flex Distribution for Bounded Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS25).  
   **Shao-Hung Chan**, Thomy Phan, Jiaoyang Li, and Sven Koenig.  
