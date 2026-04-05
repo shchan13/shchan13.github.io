@@ -10,7 +10,7 @@ You can also find my articles on
 
 {% include base_path %}
 
-[2026](#year2026) | [2025](#year2025) | [2024](#year2024) | [2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020) | [2019](#year2019) | [2018](#year2018) | [Master Thesis](#msci)
+[2026](#year2026) | [2025](#year2025) | [2024](#year2024) | [2023](#year2023) | [2022](#year2022) | [2021](#year2021) | [2020](#year2020) | [2019](#year2019) | [2018](#year2018) | [Ph.D. Dissertation](#phd) | [Master Thesis](#msci)
 
 ## <a name="year2026"></a> 2026
 
@@ -433,6 +433,12 @@ You can also find my articles on
     year      = {2018}
   }</pre>
   </div>
+
+## <a name="phd"></a> Ph.D. Dissertation
+
+* [Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanDissertation).
+  **Shao-Hung Chan**.
+  [[pdf](https://shchan13.github.io/files/ChanDissertation.pdf)]
 
 ## <a name="msci"></a> Master Thesis
 
