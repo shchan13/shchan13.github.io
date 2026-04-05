@@ -17,8 +17,8 @@ In particular, I am interested in developing heuristic search algorithms that so
 
 ## Selected Publications
 
-* [Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanDissertation).
-  **Shao-Hung Chan**.
+* [Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanDissertation).  
+  **Shao-Hung Chan**.  
   <i>Ph.D. Dissertation</i>, 2026.
 
 * [Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanAAAI22).  
