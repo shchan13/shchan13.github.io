@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior robotic engineer at [Symbotic](https://www.symbotic.com/).
+I am a senior robotics engineer at [Symbotic](https://www.symbotic.com/).
 I received my Ph.D. degree from the [University of Southern California](https://www.usc.edu) in 2026, advised by Professor [Sven Koenig](http://idm-lab.org/index.html).
 Before that, I received my M.Sci degree from [National Taiwan University](https://www.ntu.edu.tw/) in 2019 and B.Sci degree from [National Cheng Kung University](https://www.ncku.edu.tw/) in 2017.
 
@@ -50,7 +50,7 @@ In particular, I am interested in developing heuristic search algorithms that so
 
 ## News
 
-* [2026.01] I completed my Ph.D. defense and started a new job as a senior robotic engineer at Symbotic.
+* [2026.01] I completed my Ph.D. defense and started a new job as a senior robotics engineer at Symbotic.
 * [2026.01] Our two papers [Dynamic Agent Grouping ECBS: Scaling Windowed Multi-Agent Path Finding with Completeness Guarantees](https://shchan13.github.io/publications/ZhangAAAI26/) and [Truncated Counterfactual Learning for Anytime Multi-Agent Path Finding](https://shchan13.github.io/publications/PhanAAAI26/) were accepted to [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
 * [2025.12] Our paper [Operation Parallelism in Large Neighborhood Search for Anytime Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanMRS25/) was accepted to [MRS 2025](https://www.sutd.edu.sg/mrs2025/).
 * [2025.07] Our paper [New Mechanisms in Flex Distribution for Bounded Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS25/) was accepted to [SoCS 2025](https://socs25.search-conference.org/).  
