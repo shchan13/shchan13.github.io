@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the [University of Southern California](https://www.usc.edu), advised by Professor [Sven Koenig](http://idm-lab.org/index.html).
+I am a senior robotic engineer at [Symbotic](https://www.symbotic.com/).
+I received my Ph.D. degree from the [University of Southern California](https://www.usc.edu) in 2026, advised by Professor [Sven Koenig](http://idm-lab.org/index.html).
 Before that, I received my M.Sci degree from [National Taiwan University](https://www.ntu.edu.tw/) in 2019 and B.Sci degree from [National Cheng Kung University](https://www.ncku.edu.tw/) in 2017.
 
 My long-term research goal is to **develop algorithmic approaches that enable multi-robot systems to efficiently and robustly achieve collaborative tasks in dynamic environments**.
@@ -30,6 +31,7 @@ In particular, I am interested in developing heuristic search algorithms that so
 
 ## Honors and Awards
 
+* [2025] Best Paper Award Finalist in IEEE MRS 2025.
 * [2024] Best system demonstration award honorable mention in ICAPS System's Demonstration Track.  
 * [2023] First place of the virtual competition in the IEEE RAS Summer School on Multi-Robot Systems.  
 * [2022] Best student paper award in the International Symposium on Combinatorial Search (SoCS).  
@@ -44,9 +46,10 @@ In particular, I am interested in developing heuristic search algorithms that so
 
 ## News
 
-* [2025.07] Our paper [New Mechanisms in Flex Distribution for Bounded Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS25) was accepted to [SoCS 2025](https://socs25.search-conference.org/).  
-* [2025.01] Our two papers, [Anytime Multi-Agent Path Finding with an Adaptive Delay-Based Heuristic](https://shchan13.github.io/publications/Phan1AAAI25) and [Counterfactual Online Learning for Open-Loop Monte-Carlo Planning](https://shchan13.github.io/publications/Phan2AAAI25), were accepted to [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).  
-* [2024.08] Our paper [Theoretical Study on Multi-objective Heuristic Search](https://shchan13.github.io/publications/SkylerIJCAI25) was accepted to [IJCAI 2024](https://ijcai24.org/).  
+* [2025.12] Our paper [Operation Parallelism in Large Neighborhood Search for Anytime Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanMRS25/) was accepted to [MRS 2025](https://www.sutd.edu.sg/mrs2025/).
+* [2025.07] Our paper [New Mechanisms in Flex Distribution for Bounded Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanSoCS25/) was accepted to [SoCS 2025](https://socs25.search-conference.org/).  
+* [2025.01] Our two papers, [Anytime Multi-Agent Path Finding with an Adaptive Delay-Based Heuristic](https://shchan13.github.io/publications/Phan1AAAI25) and [Counterfactual Online Learning for Open-Loop Monte-Carlo Planning](https://shchan13.github.io/publications/Phan2AAAI25/), were accepted to [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).  
+* [2024.08] Our paper [Theoretical Study on Multi-objective Heuristic Search](https://shchan13.github.io/publications/SkylerIJCAI25/) was accepted to [IJCAI 2024](https://ijcai24.org/).  
 * [2024.07] I started an internship from July 15, 2024 to January 10, 2025, working for [Robert Bosch GmbH](https://www.bosch.com/research/) in Renningen, Germany.  
 * [2024.06] Our [The League of Robot Runners: Competition Goals, Designs, and Implementation](https://shchan13.github.io/publications/ChanICAPS24/) received the best system demonstration award honorable mention in ICAPS 2024. Please also check out our [video](https://drive.google.com/file/d/1513znU2bdkOEKddaOiiZfn3n5_cGufal/view) for more info.
 * [CFP] We are excited and delighted to send out the call of submissions for the [2024 League of Robot Runners Virtual Expo](https://www.leagueofrobotrunners.org/news). The submission deadline is April 14, 2024.  
