@@ -436,8 +436,8 @@ You can also find my articles on
 
 ## <a name="phd"></a> Ph.D. Dissertation
 
-* [Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanDissertation).
-  **Shao-Hung Chan**.
+* [Flex Distribution for Bounded-Suboptimal Multi-Agent Path Finding](https://shchan13.github.io/publications/ChanDissertation).  
+  **Shao-Hung Chan**.  
   [[pdf](https://shchan13.github.io/files/ChanDissertation.pdf)]
 
 ## <a name="msci"></a> Master Thesis
