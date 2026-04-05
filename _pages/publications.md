@@ -14,7 +14,7 @@ You can also find my articles on
 
 ## <a name="year2026"></a> 2026
 
-* [Dynamic Agent Grouping ECBS: Scaling Windowed Multi-Agent Path Finding with Completeness Guarantees](https://shchan13.github.io/publications/ZhangAAAI26).
+* [Dynamic Agent Grouping ECBS: Scaling Windowed Multi-Agent Path Finding with Completeness Guarantees](https://shchan13.github.io/publications/ZhangAAAI26).  
   Tiannan Zhang, Rishi Veerapaneni, **Shao-Hung Chan**, Jiaoyang Li, and Maxim Likhachev.  
   <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 29911--29920, 2026.  
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-ZhangAAAI26');">bibtex</a>]
@@ -31,7 +31,7 @@ You can also find my articles on
   }
   </pre></div>
 
-* [Truncated Counterfactual Learning for Anytime Multi-Agent Path Finding](https://shchan13.github.io/publications/PhanAAAI26).
+* [Truncated Counterfactual Learning for Anytime Multi-Agent Path Finding](https://shchan13.github.io/publications/PhanAAAI26).  
   Thomy Phan, **Shao-Hung Chan**, and Sven Koenig.  
   <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, pages 29633--29641, 2026.  
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-PhanAAAI26');">bibtex</a>]
